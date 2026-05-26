@@ -1,0 +1,98 @@
+# =========================
+# Dependencies
+# =========================
+node_modules/
+*/node_modules/
+**/node_modules/
+
+# Python virtual environments
+venv/
+*/venv/
+**/venv/
+.venv/
+*/.venv/
+**/.venv/
+
+# =========================
+# Build outputs
+# =========================
+dist/
+*/dist/
+**/dist/
+build/
+*/build/
+**/build/
+.next/
+out/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*/.env
+*/.env.local
+**/.env
+**/.env.local
+
+# Keep examples
+!.env.example
+!*/.env.example
+!**/.env.example
+
+# =========================
+# Backend runtime data
+# =========================
+backend/uploads/
+backend/data/
+backend/logs/
+uploads/
+data/
+logs/
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*/__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# =========================
+# TypeScript / Vite cache
+# =========================
+*.tsbuildinfo
+.vite/
+*/.vite/
+**/.vite/
+
+# =========================
+# Logs
+# =========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+.cache/

@@ -148,6 +148,52 @@ truthguard-ai-multimodal-forensics/
 - Notes on model confidence and false positives
 - Clear real model vs fallback indicators
 
+## Screenshots
+
+### Landing Page
+
+![TruthGuard AI Homepage](screenshots/homepage.png)
+
+### Login Page
+
+![TruthGuard AI Login](screenshots/login.png)
+
+### Dashboard Overview
+
+![TruthGuard AI Dashboard](screenshots/dashboard.png)
+
+### Real Image Forensics Model Result
+
+![TruthGuard AI Real Image Detection](screenshots/image-forensics-real-model.png)
+
+### Image Forensics Upload Workflow
+
+![TruthGuard AI Image Forensics](screenshots/image-forensics.png)
+
+### Model Lab and AI Service Health
+
+![TruthGuard AI Model Lab](screenshots/model-lab.png)
+
+### Reports Management
+
+![TruthGuard AI Reports](screenshots/reports.png)
+
+### Case Review Workflow
+
+![TruthGuard AI Case Review](screenshots/case-review.png)
+
+### Audit Logs
+
+![TruthGuard AI Audit Logs](screenshots/audit-logs.png)
+
+### Mobile Responsive View
+
+![TruthGuard AI Mobile View](screenshots/mobile-view.png)
+
+### Tablet Responsive View
+
+![TruthGuard AI Tablet View](screenshots/mobile-view.png)
+
 ## Tech Stack
 
 ### Frontend

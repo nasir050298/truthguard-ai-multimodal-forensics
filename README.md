@@ -170,6 +170,10 @@ truthguard-ai-multimodal-forensics/
 
 ![TruthGuard AI Image Forensics](screenshots/image-forensics.png)
 
+### Voice Forensics Upload Workflow
+
+![TruthGuard AI Voice Forensics](screenshots/voice-forensics.png)
+
 ### Model Lab and AI Service Health
 
 ![TruthGuard AI Model Lab](screenshots/model-lab.png)

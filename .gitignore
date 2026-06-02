@@ -96,3 +96,43 @@ Thumbs.db
 tmp/
 temp/
 .cache/
+
+# =========================
+# AI Models / HuggingFace
+# =========================
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+*.safetensors
+
+# HuggingFace cache
+.huggingface/
+cache/
+hf_cache/
+
+# =========================
+# Media test files
+# =========================
+*.mp4
+*.wav
+*.mp3
+*.avi
+*.mov
+
+# Keep sample/demo media if needed
+!demo-assets/
+!samples/
+
+# =========================
+# Reports / Generated Outputs
+# =========================
+reports.json
+*.csv
+*.xlsx
+
+# =========================
+# System files
+# =========================
+desktop.ini

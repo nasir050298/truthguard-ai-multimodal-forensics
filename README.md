@@ -174,6 +174,10 @@ truthguard-ai-multimodal-forensics/
 
 ![TruthGuard AI Voice Forensics](screenshots/voice-forensics.png)
 
+### Video Forensics Upload Workflow
+
+![TruthGuard AI Video Forensics](screenshots/video-forensics.png)
+
 ### Model Lab and AI Service Health
 
 ![TruthGuard AI Model Lab](screenshots/model-lab.png)
